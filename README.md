@@ -5,13 +5,16 @@ This repository outlines a comprehensive roadmap to mastering the C programming 
 ## Table of Contents
 
 1. [Stage 1: Fundamentals](#stage-1-fundamentals)
-2. [Stage 2: Arrays, Strings, and Structures](#stage-2-arrays-strings-and-structures)
-3. [Stage 3: Pointers and Dynamic Memory](#stage-3-pointers-and-dynamic-memory)
-4. [Stage 4: File Handling and I/O](#stage-4-file-handling-and-io)
-5. [Stage 5: Data Structures and Algorithms](#stage-5-data-structures-and-algorithms)
-6. [Stage 6: Advanced C Features](#stage-6-advanced-c-features)
-7. [Stage 7: Multithreading and Concurrency](#stage-7-multithreading-and-concurrency)
-8. [Stage 8: System Programming and Real-World Applications](#stage-8-system-programming-and-real-world-applications)
+<!--
+3. [Stage 2: Arrays, Strings, and Structures](#stage-2-arrays-strings-and-structures)
+4. [Stage 3: Pointers and Dynamic Memory](#stage-3-pointers-and-dynamic-memory)
+5. [Stage 4: File Handling and I/O](#stage-4-file-handling-and-io)
+6. [Stage 5: Data Structures and Algorithms](#stage-5-data-structures-and-algorithms)
+7. [Stage 6: Advanced C Features](#stage-6-advanced-c-features)
+8. [Stage 7: Multithreading and Concurrency](#stage-7-multithreading-and-concurrency)
+9. [Stage 8: System Programming and Real-World Applications](#stage-8-system-programming-and-real-world-applications)
+-->
+>**Note**: More content will be uplaoded soon.
 
 ---
 
@@ -26,7 +29,7 @@ This repository outlines a comprehensive roadmap to mastering the C programming 
 ### Practice:
 - Basic arithmetic programs.
 - Implement conditional logic programs (e.g., prime numbers, sum of digits).
-
+<!--
 ---
 
 ## Stage 2: Arrays, Strings, and Structures (3-4 weeks)
@@ -129,7 +132,7 @@ This repository outlines a comprehensive roadmap to mastering the C programming 
 This path is designed to take **6-12 months** depending on the pace, with a weekly commitment of 5-10 hours. Consistent practice through coding challenges and projects is recommended to solidify your knowledge.
 
 ---
-
+-->
 ## How to Use This Repository
 
 1. Clone the repository:
